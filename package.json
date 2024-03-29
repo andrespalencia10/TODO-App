@@ -2,9 +2,11 @@
   "name": "intro-react",
   "version": "0.1.0",
   "dependencies": {
+    "core-js": "^3.36.1",
+    "core-js-pure": "^3.36.1",
     "react": "^18",
     "react-dom": "^18",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
